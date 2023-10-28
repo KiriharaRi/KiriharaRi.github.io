@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hang Si"
-  avatar           : # "profile.png"
+  #avatar           : "profile.png"
   bio              : "Undergraduate student from Wuhan University"
   location         : # "Location"
   employer         : # ""
