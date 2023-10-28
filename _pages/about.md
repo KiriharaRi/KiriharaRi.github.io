@@ -12,6 +12,6 @@ I'm a undergraduate student from [School of Physics](https://physics.whu.edu.cn/
 
 In the past year, I studied and researched together with Prof. Quan and Dr. Pang on how to use deep learning to improve the image quality of medical imaging. As co-first authors, our paper ["Comparison and evaluation of different deep learning models of synthetic CT generation from CBCT for nasopharynx cancer adaptive proton therapy"](https://doi.org/10.1002/mp.16777) was published in Medical Physics.
 
-You can find my CV here: [Hang Si's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Hang Si's Curriculum Vitae](../assets/Curriculum Vitae.pdf).
 
 [Email](mailto:2019302100002@whu.edu.cn)
