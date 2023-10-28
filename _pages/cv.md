@@ -19,7 +19,7 @@ Work experience
   * Wuhan University
   * Duties included: Model implementation and assessment.
   * Supervisor: Professor Quan, Dr. Pang
-<!--  
+
 Skills
 ======
 * Python
@@ -31,7 +31,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--    
 Talks
 ======
   <ul>{% for post in site.talks %}
